@@ -59,5 +59,5 @@ Once all of the previous steps have been completed, the program is ready to run.
 
 After these steps, the data should be visible in the MQTT client.
 ### Contributors
-Janok N. Dinçer (24141212x)  
-Çağan Çakır (24140489x)
+Janok N. Dinçer
+Çağan Çakır 
